@@ -25,26 +25,18 @@ Versatile developer with a focus on building performant cross-platform applicati
 * Interactive educational/gaming application deployed on Netlify.
 * Focused on responsive design for web browsers and smooth state transitions.
 * **Tools:** Flutter, Netlify, Dart.
-* [**🎮 Live Demo**](https://kid-game-12.netlify.app/)
+* [**🎮 Live Demo**](https://kid-game-12.netlify.app/) | [**🐙 GitHub Repo**](https://github.com/mohamedrefai12/kid_games)
 
 #### **Cadi Project**
-* Web-based implementation hosted on InfinityFree.
-* Managed cross-origin resource sharing and hosting configurations.
+* Web-based implementation hosted on hostenger.
+* The Site explains how to choose the parts for the user, depending on his use and the compatibility between the parts. And we provide reviews of computer parts so that the user can choose the best for him.
+* Login/Admin accounts chat bot.
 * **Tools:** Web Technologies, PHP/HTML.
-* [**🌐 View Project**](https://cadi.great-site.net/index.php)
+* [**🌐 View Project**](https://cadi.great-site.net/index.php) | [**🐙 GitHub Repo**](https://github.com/Cadii/CADII)
 
-#### **Flutter Game Engine Architecture**
+#### **Flutter Game**
 * Developed a mobile game framework focusing on state-driven save systems and persistent data architecture.
 * Resolved critical bugs related to asynchronous storage and build-time configuration errors.
-* **Tools:** Flutter, Provider/Riverpod, Firebase.
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+* **Tools:** Flutter, Firebase.
 
 ---
