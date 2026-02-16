@@ -3,7 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedrefe1225@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-r12)
-[![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)]
+![Location](https://img.shields.io/badge/Location-Egypt-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
 
@@ -21,9 +21,30 @@ Versatile developer with a focus on building performant cross-platform applicati
 
 ### 📂 Featured Projects
 
-#### **Flutter Game Engine / App**
-* Developed a mobile game focusing on state-driven save systems and persistent data architecture.
+#### **Kid Game - Flutter Web**
+* Interactive educational/gaming application deployed on Netlify.
+* Focused on responsive design for web browsers and smooth state transitions.
+* **Tools:** Flutter, Netlify, Dart.
+* [**🎮 Live Demo**](https://kid-game-12.netlify.app/)
+
+#### **Cadi Project**
+* Web-based implementation hosted on InfinityFree.
+* Managed cross-origin resource sharing and hosting configurations.
+* **Tools:** Web Technologies, PHP/HTML.
+* [**🌐 View Project**](https://cadi.great-site.net/index.php)
+
+#### **Flutter Game Engine Architecture**
+* Developed a mobile game framework focusing on state-driven save systems and persistent data architecture.
 * Resolved critical bugs related to asynchronous storage and build-time configuration errors.
 * **Tools:** Flutter, Provider/Riverpod, Firebase.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
