@@ -25,7 +25,7 @@ Versatile developer with a focus on building performant cross-platform applicati
 * Interactive educational/gaming application deployed on Netlify.
 * Focused on responsive design for web browsers and smooth state transitions.
 * **Tools:** Flutter, Netlify, Dart.
-* [**🎮 Live Demo**](https://kid-game-12.netlify.app/) | [**🐙 GitHub Repo**](https://github.com/mohamedrefai12/kid_games)
+* [**🎮 Live Demo**](https://kid-game-12.netlify.app/)
 
 #### **Cadi Project**
 * Web-based implementation hosted on hostenger.
